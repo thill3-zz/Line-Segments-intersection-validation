@@ -1,0 +1,2 @@
+# Line-Segments-intersection-validation
+This code, given an input of two line segments, will reprt whether and where the two line segments intersect. The code is set up such that the input should be in the form (ax1,ax2,ay1,ay2,bx1,bx2,by1,by2) Where a and b refer to the two different line segments, x and y refer to the x and y coordinates respectively, and 1 and 2 refer to the coordinate values at each of the two ends of the segment. This input format can easily be adjusted as required for use.
